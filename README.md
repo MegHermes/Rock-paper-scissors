@@ -23,18 +23,15 @@
 
 ### Installation
 
-- Clone the repository or download the project files.
-- Install the required dependencies by running npm install or yarn install.
-- Run npm run build or next build to generate necessary files.
-- Start the development server with npm run dev or yarn dev.
-- Npm start
-- Open your web browser and visit http://localhost:3000 to access the Rock-Paper-Scissors game.
+- Download the repo
+- Open Terminal
+- Navigate to the folder in terminal via cd ~/downloads/rock-paper-scissors
+- Type npm install or yarn install
+- Type npm run build or next build 
+- Type Npm start to run
+- Open your web browser and visit http://localhost:3000 to access the game.
 
-### Usage
-
-- Select your move (rock, paper, or scissors) by clicking on the corresponding button.
-- The computer will randomly select its move.
-- The result of the game (win, loss, or tie) will be displayed, along with the updated scores.
-- Play again to continue the game.
+## Images
+<img width="1419" alt="Screenshot 2024-02-19 at 11 52 06 AM" src="https://github.com/MegHermes/rock-paper-scissors/assets/68392405/0a7a3da0-8638-425b-af34-b3834e9a48f1">
 
 ---
