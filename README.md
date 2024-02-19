@@ -2,7 +2,7 @@
 
 ---
 
-#### This game is built with Next.js, Tailwind CSS for UI styling, and TypeScript for type checking. Challenge your friends or play against the computer in this fun and interactive game.
+#### This game is built with Next.js, Tailwind CSS for UI styling, and TypeScript for type checking.
 
 </p>
 
